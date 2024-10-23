@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "cover_img": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+    "cover": "https://i.ibb.co.com/KV94cC0/mohammad-rahmani-8q-EB0f-Te9-Vw-unsplash.jpg",
     "title": "React Hooks: A Comprehensive Guide",
     "author": "Jane Doe",
     "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "cover_img": "https://images.unsplash.com/photo-1584697964154-ea6d2b0dcd5f",
+    "cover": "https://i.ibb.co.com/chqsX4D/lautaro-andreani-UYs-BCu9-RP3-Y-unsplash.jpg",
     "title": "Building a Todo App with React",
     "author": "John Smith",
     "author_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "cover_img": "https://images.unsplash.com/photo-1584697964300-ef44d1f02b2b",
+    "cover": "https://i.ibb.co.com/myD4hzx/caspar-camille-rubin-f-Pkv-U7-RDm-Co-unsplash.jpg",
     "title": "State Management in React",
     "author": "Alice Johnson",
     "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "cover_img": "https://images.unsplash.com/photo-1590595905584-3d5ae5c35a43",
+    "cover": "https://i.ibb.co.com/tBKtCyy/rahul-mishra-Zs5-X1-Kn-HUzw-unsplash.jpg",
     "title": "Using React Context API",
     "author": "Robert Brown",
     "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "cover_img": "https://images.unsplash.com/photo-1584697964331-b7f6735f885d",
+    "cover": "https://i.ibb.co.com/gFwLgPz/shahadat-rahman-gny-A8vd3-Otc-unsplash.jpg",
     "title": "React Router: A Deep Dive",
     "author": "Emily Davis",
     "author_img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "cover_img": "https://images.unsplash.com/photo-1590642910558-60cacee6077d",
+    "cover": "https://i.ibb.co.com/JRxqtzc/kevin-ku-w7-Zyu-GYNp-RQ-unsplash.jpg",
     "title": "Optimizing Performance in React Apps",
     "author": "Michael Wilson",
     "author_img": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "cover_img": "https://images.unsplash.com/photo-1584697964264-3fb1cf6c49c7",
+    "cover": "https://i.ibb.co.com/cJS022W/markus-spiske-Skf7-Hx-ARcoc-unsplash.jpg",
     "title": "React with TypeScript",
     "author": "Sarah Lee",
     "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
@@ -71,32 +71,12 @@
   },
   {
     "id": 8,
-    "cover_img": "https://images.unsplash.com/photo-1584697964265-8b69b85f8715",
+    "cover": "https://i.ibb.co.com/7pv7xpx/caspar-camille-rubin-0qv-BNep1-Y04-unsplash.jpg",
     "title": "Testing React Applications",
     "author": "Chris Martinez",
     "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
     "posted_date": "2024-04-17",
     "reading_time": 7,
     "hashtags": ["#React", "#Testing", "#JavaScript"]
-  },
-  {
-    "id": 9,
-    "cover_img": "https://images.unsplash.com/photo-1584697964264-1bde246ff70f",
-    "title": "React and GraphQL",
-    "author": "Jessica Walker",
-    "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
-    "posted_date": "2024-05-08",
-    "reading_time": 11,
-    "hashtags": ["#React", "#GraphQL", "#WebDevelopment"]
-  },
-  {
-    "id": 10,
-    "cover_img": "https://images.unsplash.com/photo-1584697964264-3b5ec3a7fe05",
-    "title": "Building Responsive UI with React",
-    "author": "David Harris",
-    "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
-    "posted_date": "2024-06-21",
-    "reading_time": 13,
-    "hashtags": ["#React", "#ResponsiveUI", "#WebDesign"]
   }
 ]
