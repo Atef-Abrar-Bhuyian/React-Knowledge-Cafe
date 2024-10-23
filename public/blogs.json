@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+    "title": "React Hooks: A Comprehensive Guide",
+    "author": "Jane Doe",
+    "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+    "posted_date": "2023-09-15",
+    "reading_time": 5,
+    "hashtags": ["#React", "#Hooks", "#JavaScript"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://images.unsplash.com/photo-1584697964154-ea6d2b0dcd5f",
+    "title": "Building a Todo App with React",
+    "author": "John Smith",
+    "author_img": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39",
+    "posted_date": "2023-10-01",
+    "reading_time": 7,
+    "hashtags": ["#React", "#TodoApp", "#WebDevelopment"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://images.unsplash.com/photo-1584697964300-ef44d1f02b2b",
+    "title": "State Management in React",
+    "author": "Alice Johnson",
+    "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+    "posted_date": "2023-11-22",
+    "reading_time": 10,
+    "hashtags": ["#React", "#StateManagement", "#Redux"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://images.unsplash.com/photo-1590595905584-3d5ae5c35a43",
+    "title": "Using React Context API",
+    "author": "Robert Brown",
+    "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+    "posted_date": "2023-12-05",
+    "reading_time": 8,
+    "hashtags": ["#React", "#ContextAPI", "#JavaScript"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://images.unsplash.com/photo-1584697964331-b7f6735f885d",
+    "title": "React Router: A Deep Dive",
+    "author": "Emily Davis",
+    "author_img": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514",
+    "posted_date": "2024-01-10",
+    "reading_time": 12,
+    "hashtags": ["#React", "#ReactRouter", "#WebDevelopment"]
+  },
+  {
+    "id": 6,
+    "cover_img": "https://images.unsplash.com/photo-1590642910558-60cacee6077d",
+    "title": "Optimizing Performance in React Apps",
+    "author": "Michael Wilson",
+    "author_img": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
+    "posted_date": "2024-02-14",
+    "reading_time": 6,
+    "hashtags": ["#React", "#Performance", "#WebOptimization"]
+  },
+  {
+    "id": 7,
+    "cover_img": "https://images.unsplash.com/photo-1584697964264-3fb1cf6c49c7",
+    "title": "React with TypeScript",
+    "author": "Sarah Lee",
+    "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+    "posted_date": "2024-03-03",
+    "reading_time": 9,
+    "hashtags": ["#React", "#TypeScript", "#WebDevelopment"]
+  },
+  {
+    "id": 8,
+    "cover_img": "https://images.unsplash.com/photo-1584697964265-8b69b85f8715",
+    "title": "Testing React Applications",
+    "author": "Chris Martinez",
+    "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+    "posted_date": "2024-04-17",
+    "reading_time": 7,
+    "hashtags": ["#React", "#Testing", "#JavaScript"]
+  },
+  {
+    "id": 9,
+    "cover_img": "https://images.unsplash.com/photo-1584697964264-1bde246ff70f",
+    "title": "React and GraphQL",
+    "author": "Jessica Walker",
+    "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+    "posted_date": "2024-05-08",
+    "reading_time": 11,
+    "hashtags": ["#React", "#GraphQL", "#WebDevelopment"]
+  },
+  {
+    "id": 10,
+    "cover_img": "https://images.unsplash.com/photo-1584697964264-3b5ec3a7fe05",
+    "title": "Building Responsive UI with React",
+    "author": "David Harris",
+    "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+    "posted_date": "2024-06-21",
+    "reading_time": 13,
+    "hashtags": ["#React", "#ResponsiveUI", "#WebDesign"]
+  }
+]
