@@ -9,17 +9,14 @@ const Blogs = () => {
         fetch('blogs.json')
          .then(res => res.json())
          .then(data => setBlogs(data))
+         blogs;
     } , [])
 
-    const handleBlogs = () =>{
-        console.log(data)
-    }
+    
 
     return (
         <div>
-            {
-                Total Blogs: {blogs.length}
-            }
+            
         </div>
     );
 };
