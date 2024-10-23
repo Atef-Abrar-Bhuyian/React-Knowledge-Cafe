@@ -12,7 +12,7 @@ const Blogs = ({handleAddToBookmark, handleMarkAsRead}) => {
          .then(res => res.json())
          .then(data => setBlogs(data))
          blogs;
-    } , [])
+    } ,[])
 
     
 
